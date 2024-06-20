@@ -9,7 +9,7 @@
                 "src/components/*"
             ],
             "@shared/*": [
-                "src/shared/*"
+                "src/components/shared/*"
             ],
             "@styles/*": [
                 "src/styles/*"
