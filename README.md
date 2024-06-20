@@ -25,3 +25,10 @@ The project is configured to use CRACO (Create React App Configuration Override)
 - Adding a `craco.config.js` file for CRACO configuration.
 - Modifying the `tsconfig.json` file to reference the new path configurations.
 - Updating `package.json` to use CRACO instead of react-scripts for running scripts.
+
+<br/>
+<br/>
+
+
+## Preview
+<img width="884" alt="image" src="https://github.com/yoosaemsol/yarn-berry-boilerplate/assets/75073867/695dce07-d244-431c-b2b2-03a22973bd2c">
